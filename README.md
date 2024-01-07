@@ -1,2 +1,2 @@
 # quest-of-my-life
-Repository for sharing things I've known.
+Repository for sharing things I've known
